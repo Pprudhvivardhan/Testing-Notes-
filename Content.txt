@@ -1,0 +1,39 @@
+Bugs
+
+Waterfall model
+
+V model
+
+Spring model
+
+SSLC & STLC
+
+QA/QC/QE
+
+Unit testing
+
+Functional testing
+
+Regression testing
+
+Integration testing
+
+black box & white Testing
+
+static testing & dynamic testing User Acceptance testing
+
+System testing
+
+Acceptance testing Smoke/sanity testing
+
+Adhoc/exploratory/gorilla testing
+
+End to end testing
+
+Performance testing
+
+Test design Techniques Usability testing
+
+Security testing
+
+Agile methodology Scrums & more..
