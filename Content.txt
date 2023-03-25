@@ -1,39 +1,32 @@
 Bugs
-
 Waterfall model
-
 V model
-
 Spring model
-
 SSLC & STLC
-
 QA/QC/QE
-
 Unit testing
-
 Functional testing
-
 Regression testing
-
 Integration testing
-
 black box & white Testing
-
 static testing & dynamic testing User Acceptance testing
-
 System testing
-
 Acceptance testing Smoke/sanity testing
-
 Adhoc/exploratory/gorilla testing
-
 End to end testing
-
 Performance testing
-
 Test design Techniques Usability testing
-
 Security testing
-
 Agile methodology Scrums & more..
+test case 
+locaters
+absolute Xpath 
+relative Xpath
+Commands like 
+application commands, Browser commands , conditional , navigational, wait commands,  
+Handling Check boxes, links like ,internal , external, broken .
+Handling Drop-downs . Frames and iframes , browser windows ,
+chrome options ,web table , dynamic table , date picker , 
+Mouse options , sliders , mouse actions, scrollings ,
+keyboard actions , download the file , screenshots, handling cookies , 
+Head less mode , data driven testing 
