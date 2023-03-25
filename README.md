@@ -1,3 +1,2 @@
 # Testing-Notes-
-Hand Written Notes of Manual testing 
-Hand Written Notes of Selenium Automation Testing
+Hand Written Notes of Manual testing  and Selenium Automation Testing
