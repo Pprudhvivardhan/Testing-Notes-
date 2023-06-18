@@ -20,8 +20,8 @@ Security testing
 Agile methodology Scrums & more..
 test case 
 locaters
-absolute Xpath 
-relative Xpath
+absolute Xpaths
+relative Xpaths
 Commands like 
 application commands, Browser commands , conditional , navigational, wait commands,  
 Handling Check boxes, links like ,internal , external, broken .
